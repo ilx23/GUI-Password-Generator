@@ -1,5 +1,7 @@
 # GUI-Password-Generator
 
+<meta name="google-site-verification" content="3oBNoPauJxZvSorGqRigmC7khAzltMbqlZVhVrFypvI" />
+
 https://github.com/ilx23/GUI-Password-Generator/assets/91822811/d8fed34a-bc15-45ef-a4ba-a2459b0e5777
 
 <div align="center">
