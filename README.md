@@ -1,4 +1,4 @@
-# GUI-Password-Generator
+# GUI-Password-Manager-And-Generator
 
 https://github.com/ilx23/GUI-Password-Generator/assets/91822811/d8fed34a-bc15-45ef-a4ba-a2459b0e5777
 
